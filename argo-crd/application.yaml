@@ -12,7 +12,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: guestbook
-    repoURL: 'https://github.com/yu3papa/guestbook-config.git'
+    repoURL: 'https://github.com/sk2ckr/guestbook-config.git'
     targetRevision: master
   project: dev
   syncPolicy:
