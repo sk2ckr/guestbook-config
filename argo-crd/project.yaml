@@ -8,7 +8,7 @@ metadata:
 spec:
   description: dev Project
   sourceRepos:
-  - 'https://github.com/yu3papa/guestbook-config.git'
+  - 'https://github.com/sk2ckr/guestbook-config.git'
 
   destinations:
   - namespace: default
